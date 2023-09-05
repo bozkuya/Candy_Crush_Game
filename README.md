@@ -3,7 +3,7 @@
 ## Overview
 Candy Creator is a 2D match puzzle game built in Unity. The project demonstrates the core mechanics of matching games: swapping adjacent candies to create rows or columns of identical candies, which are then removed from the board.
 
-    ![image](https://github.com/bozkuya/Candy_Crush_Game/assets/129911627/25c9659a-1574-4c7e-a2d3-b4ec7fbbd5ca)
+  ![image](https://github.com/bozkuya/Candy_Crush_Game/assets/129911627/25c9659a-1574-4c7e-a2d3-b4ec7fbbd5ca)
 
 
 ## Features
